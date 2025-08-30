@@ -1,4 +1,5 @@
 name: latent-lang-diff
+shit
 channels:
   - defaults
 dependencies:
@@ -18,7 +19,6 @@ dependencies:
   - python=3.10.0
   - readline
   - sqlite
-  - tk
   - toml
   - xz
   - zlib
